@@ -1,0 +1,87 @@
+﻿Выполняется установка сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WIndowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WIndowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WIndowsService.InstallLog
+Выполняется удаление источника EventLog Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Выполняется удаление источника EventLog Service2.
+Предупреждение. Источник Service2 не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Service2 из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Устанавливается служба Service2...
+Служба Service2 успешно установлена.
+Создается исходный EventLog Service2 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+Выполняется удаление сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+При выполнении программы установки WindowsService.Installer1 во время установки возникло исключение.
+System.ArgumentException: Словарь savedState содержит противоречивые данные и, возможно, поврежден.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+   logfile = C:\Users\freia\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.InstallLog
+При выполнении программы установки WindowsService.Installer1 во время установки возникло исключение.
+System.ArgumentException: Словарь savedState содержит противоречивые данные и, возможно, поврежден.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
