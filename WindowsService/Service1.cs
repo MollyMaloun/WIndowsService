@@ -57,7 +57,7 @@ namespace WindowsService
         {
 
            
-            watcher = new FileSystemWatcher("C:\\Users\\freia\\Downloads\\");
+            watcher = new FileSystemWatcher("C:\\Users\\");
             watcher.Deleted += Watcher_Deleted;
             watcher.Created += Watcher_Created;
             watcher.Changed += Watcher_Changed;
